@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412018597765",
+    "project_id": "medicines2-d061f",
+    "storage_bucket": "medicines2-d061f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412018597765:android:23c7ef17766e9b3e3eaeec",
+        "android_client_info": {
+          "package_name": "com.example.mnat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412018597765-8jdsmldfjpvbvne1fkljio20g7352rd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAht9tyOs0RLUXQVIEy0QAz06plebxtWU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412018597765-8jdsmldfjpvbvne1fkljio20g7352rd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

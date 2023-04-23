@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/admin_mobile_navigation"
+    app:startDestination="@id/medicineshortageneed">
+
+    <fragment
+        android:id="@+id/adminprofile"
+        android:name="com.example.medonation.adminprofile"
+        android:label="fragment_adminprofile"
+        tools:layout="@layout/fragment_adminprofile" />
+    <fragment
+        android:id="@+id/showdonations"
+        android:name="com.example.medonation.donations"
+        android:label="fragment_donations"
+        tools:layout="@layout/fragment_donations" />
+    <fragment
+        android:id="@+id/medicineshortageneed"
+        android:name="com.example.medonation.medshortage_admin"
+        android:label="fragment_medshortage_admin"
+        tools:layout="@layout/fragment_medshortage_admin" />
+    <fragment
+        android:id="@+id/disasteralert_admin"
+        android:name="com.example.medonation.disasteralert_admin"
+        android:label="fragment_disasteralert_admin"
+        tools:layout="@layout/fragment_disasteralert_admin" />
+    <fragment
+        android:id="@+id/ad_help_complaints"
+        android:name="com.example.medonation.ad_help_complaints"
+        android:label="fragment_ad_help_complaints"
+        tools:layout="@layout/fragment_ad_help_complaints" />
+
+
+</navigation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+   >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/userprofile"
+            android:icon="@drawable/ic_userprofile"
+            android:menuCategory="secondary"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/registermedicine"
+            android:icon="@drawable/register_medicineds"
+            android:menuCategory="secondary"
+            android:title="@string/register_medicine" />
+        <item
+            android:id="@+id/mydonations"
+            android:icon="@drawable/my_donations"
+            android:menuCategory="secondary"
+            android:title="@string/my_donations" />
+        <item
+            android:id="@+id/medicineshortage"
+            android:icon="@drawable/medshort"
+            android:menuCategory="secondary"
+            android:title="@string/medicine_shortge" />
+        <item
+            android:id="@+id/disasteralert_donor"
+            android:icon="@drawable/ic_disaster"
+            android:menuCategory="secondary"
+            android:title="Disaster Alert" />
+        <item
+            android:id="@+id/donations_points"
+            android:icon="@drawable/ic_donation_points"
+            android:menuCategory="secondary"
+            android:title="Donation Points" />
+        <item
+            android:id="@+id/help_complaints"
+            android:icon="@drawable/ic_notes"
+            android:menuCategory="secondary"
+            android:title="Help and Complaints" />
+
+    </group>
+
+</menu>

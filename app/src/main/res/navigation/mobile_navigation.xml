@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/userprofile">
+
+    <fragment
+        android:id="@+id/userprofile"
+        android:name="com.example.medonation.Fragments.DonorProfile"
+        android:label="Donor Profile"
+        tools:layout="@layout/fragment_donor_profile"
+        />
+
+    <fragment
+        android:id="@+id/medicineshortage"
+        android:name="com.example.medonation.Fragments.medicine_shortage"
+        android:label="medicine_shortage"
+        tools:layout="@layout/fragment_medicine_shortage" />
+    <fragment
+        android:id="@+id/registermedicine"
+        android:name="com.example.medonation.register_medicine"
+        android:label="fragment_register_medicine"
+        tools:layout="@layout/fragment_register_medicine" />
+    <fragment
+        android:id="@+id/mydonations"
+        android:name="com.example.medonation.mydonations"
+        android:label="fragment_mydonations"
+        tools:layout="@layout/fragment_mydonations" />
+    <fragment
+        android:id="@+id/disasteralert_donor"
+        android:name="com.example.medonation.disasteralert_donor"
+        android:label="fragment_disasteralert_donor"
+        tools:layout="@layout/fragment_disasteralert_donor" />
+    <fragment
+        android:id="@+id/donations_points"
+        android:name="com.example.medonation.donationpoints"
+        android:label="fragment_donationpoints"
+        tools:layout="@layout/fragment_donationpoints" />
+    <fragment
+        android:id="@+id/help_complaints"
+        android:name="com.example.medonation.help_and_complaints"
+        android:label="help and complaints"
+        tools:layout="@layout/fragment_help_and_complaints" />
+
+</navigation>

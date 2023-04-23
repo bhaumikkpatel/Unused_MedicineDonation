@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/adminprofile"
+            android:icon="@drawable/ic_userprofile"
+            android:title="@string/AdminProfile" />
+
+        <item
+            android:id="@+id/showdonations"
+            android:icon="@drawable/my_donations"
+            android:title="@string/donations" />
+        <item
+            android:id="@+id/medicineshortageneed"
+            android:icon="@drawable/ms"
+            android:title="@string/medicine_shortage" />
+        <item
+            android:id="@+id/disasteralert_admin"
+            android:icon="@drawable/ic_disaster"
+            android:title="Disaster Alert" />
+    </group>
+    <group>
+        <item
+            android:id="@+id/ad_help_complaints"
+            android:icon="@drawable/ic_notes"
+            android:menuCategory="secondary"
+            android:title="Help and Complaints"
+            />
+    </group>
+</menu>

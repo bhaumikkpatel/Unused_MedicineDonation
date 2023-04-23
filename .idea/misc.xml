@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/custom_button.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/custom_edittext.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/custom_edittext2.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_disaster.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_gmp_background.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_registermedicine.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/ic_userprofile.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/messagebackgroun.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/recieverchatdrawble.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/senderchatdrawable.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_ad.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_adh.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_admin_home.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_admin_login.xml" value="0.128" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_admin_regidter.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_admin_register.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_adminhome.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_adminlogin.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_adminshortageview.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_check.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_checkdrawer.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_disasterview.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_donor_home.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_donor_register.xml" value="0.19383259911894274" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_donor_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_donorhome.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_donors_home.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_example.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_extracheck.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_findpath.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_findpath2.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_findpaths.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_forget_password.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_homecheck.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_homescreen.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_showdonations.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_user_register.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_usercategory.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/activity_userlogin.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/adminhome.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/adminlogin.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/app_bar_adminhome.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/app_bar_donor_home.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/app_bar_donorhome.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/card_view_donation.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/content_adminhome.xml" value="0.128" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/content_checkdrawer.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/content_donor_home.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/content_donorhome.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/custom_edittext2.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/ditem.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/donor_login.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_ad_help_complaints.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_adminprofile.xml" value="0.14102564102564102" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disaster__alert__admin.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disaster_alert.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disaster_alert_adminn.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disaster_alert_formedicine.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disasteralert_admin.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_disasteralert_donor.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_donationpoints.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_donations.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_donor_profile.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_help_and_complaints.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_medicine_shortage.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_medshortage_admin.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_mydonations.xml" value="0.152" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_profile.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_register_medicine.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/item_container_user.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/nav_admhm.xml" value="0.128" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/nav_header.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/nav_header_adminhome.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/nav_header_donor_home.xml" value="0.152" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/nav_header_donorhome.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/recieverchatlayout.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/registermedicine_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/senderchatlayout.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/layout/sitem.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/a_d_m_i_n_h_o_m_e.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/activity_adminhome_drawer.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/activity_main_drawer.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/activity_main_drawer_adminhome.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/admin_h_o_m_e.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/admindrawer.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/adminhome.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/checkdrawer.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/d_o_n_o_r_h_o_m_e.xml" value="0.136" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/donor_home.xml" value="0.136" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/donordrawer.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/menu/donorhome.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/mipmap-anydpi-v26/ic_gmp.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/mipmap-anydpi-v26/ic_gmp_round.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mnat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

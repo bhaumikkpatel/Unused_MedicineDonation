@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">medonation</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="title_activity_checkdrawer">checkdrawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_donor_home">DonorHome</string>
+    <string name="forget_password">Forget password</string>
+    <string name="new_user_sign_up">New user? sign up</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">sign in</string>
+    <string name="title_activity_donorhome">donorhome</string>
+    <string name="title_activity_donors_home">DonorsHome</string>
+    <string name="title_activity_donorhomebanja">donorhomebanja</string>
+    <string name="profile">Profile</string>
+    <string name="register_medicine">Register Medicine</string>
+    <string name="my_donations">My Donations</string>
+    <string name="shortge">Shortge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="donorprofile">Profile</string>
+    <string name="regmed">Register medicine</string>
+    <string name="mydon">My Donations</string>
+    <string name="medicine_shortge">Medicine Shortge</string>
+    <string name="title_activity_adminhome">ADMINHOME</string>
+    <string name="title_activity_adminshome">ADMINSHOME</string>
+    <string name="title_activity_adminhomes">ADMINHOMES</string>
+    <string name="title_activity_homeadmin">HOMEADMIN</string>
+    <string name="title_activity_adhome">ADHOME</string>
+    <string name="title_activity_beeraybnja">BEERAYBNJA</string>
+    <string name="title_activity_adminhome22">ADMINHOME22</string>
+    <string name="title_activity_adminhome2">Adminhome2Activity</string>
+
+    <string name="donations">Donations</string>
+    <string name="medicine_shortage">Medicine Shortage</string>
+    <string name="AdminProfile">Admin Profle</string>
+    <string name="hello_mydonations_fragment" />
+    <string name="disaster_alert">Disaster Alert</string>
+    <string name="Disaster" />
+    <string name="disasteralert_admin" />
+    <string name="select_area">Select Area</string>
+
+    <string-array name="Select_Area">
+        <item>Islamabad</item>
+        <item>Karachi</item>
+        <item>Rawalpindi</item>
+        <item>Lahore</item>
+        <item>Faisalabad</item>
+        <item>Sargodha</item>
+        <item>Multan</item>
+        <item>Haiderabad</item>
+        <item>Peshawar</item>
+
+    </string-array>
+    <string name="title_activity_findpath">findpath</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

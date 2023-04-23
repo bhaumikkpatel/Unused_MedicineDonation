@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medonation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="medonation"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mnat">
+        <activity
+            android:name=".forgetPassword"
+            android:exported="true" />
+        <activity
+            android:name=".findpaths"
+            android:exported="true" />
+        <activity
+            android:name=".disasterview"
+            android:exported="true" />
+        <activity
+            android:name=".adminshortageview"
+            android:exported="true" />
+        <activity
+            android:name=".ADMINHOME"
+            android:exported="true"
+            android:label="Admin Home"
+            android:theme="@style/Theme.Mnat.NoActionBar" />
+        <activity
+            android:name=".DONORHOME"
+            android:exported="true"
+            android:label="@string/title_activity_donorhome"
+            android:theme="@style/Theme.Mnat.NoActionBar" />
+        <activity
+            android:name=".DonorSignIn"
+            android:exported="true" />
+        <activity
+            android:name=".donor_register"
+            android:exported="true" />
+        <activity
+            android:name=".admin_register"
+            android:exported="true" />
+        <activity
+            android:name=".admin_login"
+            android:exported="true" />
+        <activity
+            android:name=".usercategory"
+            android:exported="true"
+            android:label="User" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
